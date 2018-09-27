@@ -1,2 +1,4 @@
-# hu-oss-sw-2018-lab-3
-OpenSource Practice
+OSS SW Lab.
+===========
+
+ * 'ByoungIk Choi'
